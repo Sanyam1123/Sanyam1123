@@ -1,10 +1,10 @@
 # Hi there 👋, I'm Sanyam Arya  
-### 💻 Full Stack Developer | 🧠 Tech Enthusiast | 🏮Problem Solver
+### 💻 Full Stack Developer | 🧠 Tech Enthusiast | 🏮Aspiring Java Full Stack Developer
 
 - 🌱 I’m currently learning: *Full Stack Java Development*
 - 📫 Contact me: [Email](mailto:sanyamarya23@gmail.com) | [LinkedIn](https://www.linkedin.com/in/sanyam23/)
 
-- ⚡ Fun fact: I know basic Japanese and can read and write some basic sentences in it.
+-⚡ Fun fact: I believe coffee + code = perfect combo ☕💻
 
 ---
 
