@@ -19,8 +19,8 @@
 
 ### 📊 GitHub Stats
 
-![Sanyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=farman-cloud&show_icons=true&theme=tokyonight)
+![Sanyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanyam1123-cloud&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=farman-cloud&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanyam1123-cloud&layout=compact&theme=tokyonight)
 
 ---
